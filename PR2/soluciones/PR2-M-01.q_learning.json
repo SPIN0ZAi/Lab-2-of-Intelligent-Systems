@@ -5,7 +5,7 @@
   "algoritmo": "q_learning",
   "autores": [
     "Full name <e-mail@alu.uclm.es>",
-    "Full name <e-mail@alu.uclm.es>"
+    "Soulaimane Ben Louaret <Soulaimane.benlouaret1@alu.uclm.es>"
   ],
   "hiperparametros": {
     "alpha": 0.2,
@@ -933,7 +933,7 @@
       22.72,
       21.09
     ],
-    "tiempo_s": 56.11,
+    "tiempo_s": 29.05,
     "estados_visitados": 828
   },
   "evaluacion": {
