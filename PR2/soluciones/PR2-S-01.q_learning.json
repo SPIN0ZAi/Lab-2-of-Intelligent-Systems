@@ -4,7 +4,7 @@
   "instancia": "PR2-S-01",
   "algoritmo": "q_learning",
   "autores": [
-    "Full name <e-mail@alu.uclm.es>",
+    "Elías Aoufi García <Elias.Aoufi@alu.uclm.es>",
     "Soulaimane Ben Louaret <Soulaimane.benlouaret1@alu.uclm.es>"
   ],
   "hiperparametros": {
@@ -142,7 +142,7 @@
       62.28,
       63.78
     ],
-    "tiempo_s": 2.63,
+    "tiempo_s": 2.65,
     "estados_visitados": 87
   },
   "evaluacion": {
